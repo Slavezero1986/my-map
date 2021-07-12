@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"<iframe allow=\"fullscreen\">"
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
