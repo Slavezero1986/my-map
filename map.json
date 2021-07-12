@@ -170,7 +170,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/itcp-bbb.itcp.kit.edu\/b\/nic-n3s-y9t-pj1"
+                 "value":"https:\/\/test.bigbluebutton.org\/html5client\/join?sessionToken=wlimtnrcymqscfmc"
                 }, 
                 {
                  "name":"openWebsitePolicy",
