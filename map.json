@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"allow"
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
