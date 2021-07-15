@@ -198,7 +198,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"fullscreen;camera;microphone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -367,7 +367,7 @@
          "value":"Meetup"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
