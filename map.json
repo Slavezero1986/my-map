@@ -158,7 +158,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dropbox.com\/sh\/2xk157gtw11jc90\/AADqgwdjH9n-us5z22C-Idw3a?dl=0"
+                 "value":"https:\/\/www.dropbox.com\/sh\/2xk157gtw11jc90\/AADqgwdjH9n-us5z22C-Idw3a?raw=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -344,7 +344,7 @@
                  "text":
                     {
                      "pixelsize":17,
-                     "text":"Dropbox",
+                     "text":"Dropboxd",
                      "wrap":true
                     },
                  "type":"",
