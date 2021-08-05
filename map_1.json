@@ -23,6 +23,12 @@
                  "id":65,
                  "name":"Exit T3",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/_\/global\/Slavezero1986.github.io\/my-newmap\/map_T3.json"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
