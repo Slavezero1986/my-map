@@ -135,15 +135,15 @@
                     {
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
-                     "pixelsize":19,
+                     "pixelsize":24,
                      "text":"Labor\nRheo-X",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":63.1547241597971,
-                 "x":320.343373493976,
-                 "y":300
+                 "width":81.0114140773621,
+                 "x":316.285034876347,
+                 "y":290
                 }],
          "opacity":1,
          "type":"objectgroup",

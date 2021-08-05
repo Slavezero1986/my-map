@@ -135,15 +135,15 @@
                     {
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
-                     "pixelsize":19,
+                     "pixelsize":24,
                      "text":"Labor\nnew equipment",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":139.218135700698,
-                 "x":316.188332276474,
-                 "y":300
+                 "width":166.756499682942,
+                 "x":317,
+                 "y":290
                 }],
          "opacity":1,
          "type":"objectgroup",

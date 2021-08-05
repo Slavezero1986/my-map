@@ -127,7 +127,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":47.5,
+                 "height":58.0516804058338,
                  "id":7,
                  "name":"",
                  "rotation":0,
@@ -135,15 +135,15 @@
                     {
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
-                     "pixelsize":19,
+                     "pixelsize":24,
                      "text":"Labor\nSEC-X",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":53.4013950538998,
-                 "x":318.908370323399,
-                 "y":300
+                 "width":73.6930881420418,
+                 "x":315.661699429296,
+                 "y":290
                 }],
          "opacity":1,
          "type":"objectgroup",
