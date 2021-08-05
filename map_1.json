@@ -453,7 +453,7 @@
                  "y":85
                 }, 
                 {
-                 "height":28.3333333333333,
+                 "height":56.3333333333333,
                  "id":18,
                  "name":"",
                  "rotation":0,
@@ -462,17 +462,17 @@
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":24,
-                     "text":"Discussion",
+                     "text":"Discussion\n2",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":114.667,
-                 "x":1463.33316666667,
-                 "y":40
+                 "width":132.667,
+                 "x":1454.33316666667,
+                 "y":35
                 }, 
                 {
-                 "height":28.3333,
+                 "height":57.3333,
                  "id":20,
                  "name":"",
                  "rotation":0,
@@ -481,17 +481,17 @@
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":24,
-                     "text":"Discussion",
+                     "text":"Discussion\n1",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":114.667,
-                 "x":1135.99983333333,
-                 "y":40
+                 "width":133.370678255691,
+                 "x":1117.29615507764,
+                 "y":35
                 }, 
                 {
-                 "height":28.3333,
+                 "height":53.3333,
                  "id":21,
                  "name":"",
                  "rotation":0,
@@ -500,14 +500,14 @@
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":24,
-                     "text":"Discussion",
+                     "text":"Discussion\n3",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":114.667,
                  "x":1691.6665,
-                 "y":40
+                 "y":35
                 }, 
                 {
                  "height":194.655660436993,
