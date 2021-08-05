@@ -104,25 +104,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":19,
-                 "id":18,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "fontfamily":"MS Shell Dlg 2",
-                     "halign":"center",
-                     "pixelsize":19,
-                     "text":"Talk - Room",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":114.667,
-                 "x":234.594461496665,
-                 "y":880.756481912747
-                }, 
-                {
                  "height":54.6590591523056,
                  "id":20,
                  "name":"",
