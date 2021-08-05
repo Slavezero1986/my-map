@@ -153,6 +153,12 @@
                  "id":64,
                  "name":"t3",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
@@ -165,6 +171,12 @@
                  "id":62,
                  "name":"t2",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
@@ -177,6 +189,12 @@
                  "id":61,
                  "name":"t1",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
@@ -189,6 +207,12 @@
                  "id":60,
                  "name":"plenaryhall",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
@@ -201,6 +225,12 @@
                  "id":58,
                  "name":"r3",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
@@ -213,6 +243,12 @@
                  "id":57,
                  "name":"r2",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":58,
