@@ -136,14 +136,14 @@
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":19,
-                     "text":"Alumni-Labor 3 (New equipment)",
+                     "text":"Labor\nnew equipment",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":291,
-                 "x":317,
-                 "y":301.25
+                 "width":139.218135700698,
+                 "x":316.188332276474,
+                 "y":300
                 }],
          "opacity":1,
          "type":"objectgroup",

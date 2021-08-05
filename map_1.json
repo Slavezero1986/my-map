@@ -440,6 +440,7 @@
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":32,
@@ -448,9 +449,9 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":105.333333333334,
-                 "x":875,
-                 "y":85
+                 "width":125.333333333334,
+                 "x":865,
+                 "y":84.5
                 }, 
                 {
                  "height":56.3333333333333,

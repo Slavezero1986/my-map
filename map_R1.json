@@ -136,14 +136,14 @@
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":19,
-                     "text":"Alumni-Labor 1 (Rheo-X)",
+                     "text":"Labor\nRheo-X",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":275,
-                 "x":289.5,
-                 "y":300.5
+                 "width":63.1547241597971,
+                 "x":320.343373493976,
+                 "y":300
                 }],
          "opacity":1,
          "type":"objectgroup",

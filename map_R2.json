@@ -136,14 +136,14 @@
                      "fontfamily":"MS Shell Dlg 2",
                      "halign":"center",
                      "pixelsize":19,
-                     "text":"Alumni-Labor 2 (SEC-X)",
+                     "text":"Labor\nSEC-X",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":262,
-                 "x":290.5,
-                 "y":299.25
+                 "width":53.4013950538998,
+                 "x":318.908370323399,
+                 "y":300
                 }],
          "opacity":1,
          "type":"objectgroup",
